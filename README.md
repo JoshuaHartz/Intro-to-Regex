@@ -58,4 +58,31 @@ Yes this could be solved by using the CTRL+F funcitonality that most if not all 
 7. Escaping: Certain characters have special meanings in regex. To match these characters literally, you need to escape them with a backslash '\.' For example, to match a literal dot, use '\.'.
 8. Modifiers: Modifiers change the behavior of a regular expression. Common modifiers include case-insensitive matching (i), global matching (g), and multiline matching (m).
 
+
 ## Must know regex 
+```
+Characters:
+[A-Z] - a letter in the range of A-Z (can be any range of letters)
+[a-z] - a letter in the range of a-z (can be any range of letters)
+[A-z] - a letter in the range of A-z (can be any range of letters)
+[^A-z] - a letter not in the range of A-z (can be any range of letters)
+\w - any letter
+\w+ - any word
+\W - not a word
+\s - any whitespace
+\S - any non whitespace
+. - any single character
+
+Numbers:
+[0-9] - any number 0-9 (can be any range of numbers)
+[^0-9] - any number that is not 0-9 (can be any range of numbers)
+/d - digit 0-9
+/D - non digit
+
+Quantifiers:
+x can be a regex string or a literal character
+x{4} - 4 of x
+x{4,} - 4 or more of x
+x{4,6} - 4 to 6 of x
+Example: [A-z]{4} - search for 4 letters from A-z
+```
