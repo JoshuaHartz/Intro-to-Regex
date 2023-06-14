@@ -89,7 +89,7 @@ Example: [A-z]{4} - search for 4 letters from A-z
 
 ### Practice yourself
 
-Take this text and answer a few questions about it:
+Take this text and answer a few questions about it use [regex101](https://regex101.com):
 
 ```
 In tHe bustling city streets84, amidst the sympHony of car horns and the chatter of pedestrians, a l0ne stre5et performer stood on A corner, strumming a weathered guitar With nimble fingers. His melodies wafted through the air, weaving a tapestry of emotions that captivated passersby. Some pau1sed to listEn, their faces lighting up with delight, while otHers hurried past, too absorbed in their own world to notice. The performer, undeTerred, poured his heart into each note, his voice carryin3g a raw, soulful essence. And in that mOment, a connection was formed between th22e artist and THE city, bridging gaps and cReating shared expeRiences in the most 1unexpected of places.
