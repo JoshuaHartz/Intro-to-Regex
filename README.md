@@ -57,3 +57,5 @@ Yes this could be solved by using the CTRL+F funcitonality that most if not all 
 6. Alternation: The pipe character | represents alternation, allowing you to match one pattern or another. For example, cat|dog matches either "cat" or "dog".
 7. Escaping: Certain characters have special meanings in regex. To match these characters literally, you need to escape them with a backslash '\.' For example, to match a literal dot, use '\.'.
 8. Modifiers: Modifiers change the behavior of a regular expression. Common modifiers include case-insensitive matching (i), global matching (g), and multiline matching (m).
+
+## Must know regex 
