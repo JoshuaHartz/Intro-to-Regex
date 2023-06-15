@@ -108,3 +108,5 @@ In tHe bustling city streets84, amidst the sympHony of car horns and the chatter
   <summary>Q3: How many spaces are there? </summary>
    A1: 108 
 </details>
+
+Best way to figure out what you can do with regex is have chatGPT generate random words (specify paragraph or you get a whole bedtime story). Put hidden artifacts in the generated text and see what it takes to fish them out using regex. 
